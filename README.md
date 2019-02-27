@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+Juan here, I like ruby and c++.
